@@ -2,6 +2,6 @@
   "name": "NewsHit",
   "symbol": "NST",
   "description": "The official NewsHit token (NST) on Solana.",
-  "image": "https://mldbi.com/nst-logo.png",
+  "image": "https://raw.githubusercontent.com/MLDBI/news-hit-token/main/nst-logo.png",
   "decimals": 9
 }
